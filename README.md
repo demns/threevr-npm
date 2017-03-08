@@ -1,0 +1,1 @@
+this entire thing is from https://raw.githubusercontent.com/richtr/threeVR/master/js/DeviceOrientationController.js
