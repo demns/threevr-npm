@@ -11,7 +11,7 @@
  *
 **/
 module.exports = function (THREE) {
-	return function DeviceOrientationController(object, onError) {
+	return function DeviceOrientationController(object, domElement) {
 
 		this.object = object;
 		this.element = domElement || document;
